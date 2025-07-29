@@ -32,9 +32,11 @@
 [![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1753771205354?alt=media&token=ea2ae8c2-f877-485a-a312-a6a92b0cd4e5)](https://github.com/msdio/stackticon)
 
 ## 아키텍처
+<img src="./assets/architecture.png" width="500" />
+
 
 
 ## 결과
-![tab1 gif](./assets/tab1.gif)
-![tab2 gif](./assets/tab2.gif)
-![tab3 gif](./assets/tab3.gif)
+<img src="./assets/tab1.gif" width="300" />
+<img src="./assets/tab2.gif" width="300" />
+<img src="./assets/tab3.gif" width="300" />
