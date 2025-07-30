@@ -38,7 +38,52 @@
 
 
 
-## 결과
-<img src="./assets/tab1.gif" width="300" />
-<img src="./assets/tab2.gif" width="300" />
-<img src="./assets/tab3.gif" width="300" />
+<div align=center>
+
+<br><br>
+
+## DASHBOARD
+
+<table style="min-width: 100% !important; max-width: 830px !important; border-collapse: collapse;">
+  <!-- 실시간 탭 -->
+  <tr>
+    <td align="center" valign="middle" width="80%">
+      <img src="./assets/tab1.gif" width="750" />
+    </td>
+    <td align="center" valign="middle" width="20%">
+      <p>
+        <strong>✅ 실시간</strong><br><br>
+        설명 설명 설명 설명 설명  <br><br>
+        설명 설명 설명 설명 설명 설명 설명 설명 설명 설명 
+      </p>
+    </td>
+  </tr>
+
+  <!-- 주간 탭 -->
+  <tr>
+    <td align="center" valign="middle" width="80%">
+      <img src="./assets/tab2.gif" width="750">
+    </td>
+    <td align="center" valign="middle" width="20%">
+      <p>
+        <strong>✅ 주간</strong><br><br>
+        설명 설명 설명 설명 설명  <br><br>
+        설명 설명 설명 설명 설명 설명 설명 설명 설명 설명 
+      </p>
+    </td>
+  </tr>
+
+  <!-- 인사이트 탭 -->
+  <tr>
+    <td align="center" valign="middle" width="80%">
+      <img src="./assets/tab3.gif" width="750">
+    </td>
+    <td align="center" valign="middle" width="20%">
+      <p>
+        <strong>✅ 인사이트</strong><br><br>
+        설명 설명 설명 설명 설명  <br><br>
+        설명 설명 설명 설명 설명 설명 설명 설명 설명 설명 
+      </p>
+    </td>
+  </tr>
+</table>
