@@ -48,7 +48,7 @@
   <!-- 실시간 탭 -->
   <tr>
     <td align="center" valign="middle" width="80%">
-      <img src="./assets/tab1.gif" width="750" />
+      <img src="./assets/tab1.gif" width="600" />
     </td>
     <td align="center" valign="middle" width="20%">
       <p>
@@ -62,7 +62,7 @@
   <!-- 주간 탭 -->
   <tr>
     <td align="center" valign="middle" width="80%">
-      <img src="./assets/tab2.gif" width="750">
+      <img src="./assets/tab2.gif" width="600">
     </td>
     <td align="center" valign="middle" width="20%">
       <p>
@@ -76,7 +76,7 @@
   <!-- 인사이트 탭 -->
   <tr>
     <td align="center" valign="middle" width="80%">
-      <img src="./assets/tab3.gif" width="750">
+      <img src="./assets/tab3.gif" width="600">
     </td>
     <td align="center" valign="middle" width="20%">
       <p>
