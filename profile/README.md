@@ -1,6 +1,6 @@
-#  &nbsp;&nbsp;데이터로 보는 서울 <img src="./assets/seoul_mas.png" align=left width=70>
+#  데이터로 보는 서울 <img src="./assets/seoul_mas.png" align=left width=90>
 
-> 서울시 공공 API 기반 도시 데이터 수집 및 AWS 기반 데이터 파이프라인·대시보드 구축  &nbsp;&nbsp; 
+> 서울시 공공 API 기반 실시간 데이터 수집 및 AWS 기반 데이터 파이프라인·대시보드 구축  &nbsp;&nbsp; • <b>Data Engineering</b>
 
 
 
