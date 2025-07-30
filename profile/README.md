@@ -69,46 +69,42 @@
 
 ## 📊 Dashboard
 
-<table style="min-width: 100%; max-width: 830px; border-collapse: collapse;">
+
+
+<table style="min-width: 100%; max-width: 830px; border-collapse: collapse; margin: 0 auto;">
 
   <!-- 실시간 탭 -->
   <tr>
-    <td align="center" valign="middle" width="80%">
-      <img src="./assets/tab1.gif" width="600" />
-    </td>
-    <td align="center" valign="middle" width="20%">
-      <p>
+    <td align="center" valign="top" style="padding: 20px;">
+      <img src="./assets/tab1.gif"  alt="실시간 탭 이미지" /><br><br>
+      <p style="max-width: 600px; margin: 0 auto;">
         <strong>✅ 실시간</strong><br><br>
-        설명 설명 설명 설명 설명<br><br>
-        설명 설명 설명 설명 설명 설명 설명 설명 설명 설명
+        실시간 탭은 82개 핫스팟이 위치한 "서울"의 <br>
+        종합적인 실시간 도시 정보를 모아서 보여줍니다.
       </p>
     </td>
   </tr>
 
   <!-- 주간 탭 -->
   <tr>
-    <td align="center" valign="middle" width="80%">
-      <img src="./assets/tab2.gif" width="600" />
-    </td>
-    <td align="center" valign="middle" width="20%">
-      <p>
+    <td align="center" valign="top" style="padding: 20px;">
+      <img src="./assets/tab2.gif" alt="주간 탭 이미지" /><br><br>
+      <p style="max-width: 600px; margin: 0 auto;">
         <strong>✅ 주간</strong><br><br>
-        설명 설명 설명 설명 설명<br><br>
-        설명 설명 설명 설명 설명 설명 설명 설명 설명 설명
+        사용자가 드롭다운 리스트에서 특정 장소를 선택하면<br>
+        해당 장소의 지난주 통계 정보를 제공합니다.
       </p>
     </td>
   </tr>
 
   <!-- 인사이트 탭 -->
   <tr>
-    <td align="center" valign="middle" width="80%">
-      <img src="./assets/tab3.gif" width="600" />
-    </td>
-    <td align="center" valign="middle" width="20%">
-      <p>
+    <td align="center" valign="top" style="padding: 20px;">
+      <img src="./assets/tab3.gif" alt="인사이트 탭 이미지" /><br><br>
+      <p style="max-width: 600px; margin: 0 auto;">
         <strong>✅ 인사이트</strong><br><br>
-        설명 설명 설명 설명 설명<br><br>
-        설명 설명 설명 설명 설명 설명 설명 설명 설명 설명
+        사용자가 필터 조건을 직접 구성하여<br>
+        소비 패턴과 유동인구 특성을 분석하고 정렬할 수 있습니다.
       </p>
     </td>
   </tr>
