@@ -1,4 +1,3 @@
-<br>
 
 #  데이터로 보는 서울 <img src="./assets/seoul_mas.png" align=left width=90>
 
@@ -27,7 +26,7 @@
 --> 
 <br><br>
 
-## 📌 Project Overview
+## Project Overview
 > 서울 열린데이터 광장의 실시간 도시데이터 API를 활용하여 날씨, 상권, 인구, 교통, 문화행사 데이터를 통합 수집하고,  
 > AWS 기반 데이터 파이프라인과 인터랙티브 대시보드를 구축하는 프로젝트입니다.
 
@@ -35,7 +34,7 @@
 <br><br>
 
 
-## 👥 Contributors
+## Contributors
 
 | 서정원 | 이승아 | 정동영 🤴🏻 | 조원서 | 최현욱 |
 |:--:|:--:|:--:|:--:|:--:|
@@ -45,15 +44,7 @@
 <br><br>
 
 
-## 🧱 Architecture
-
-<img src="./assets/architecture.png" width="500" />
-
-
-<br><br>
-
-
-## 🛠 Tech Stack 
+## Tech Stack 
 
 | Category | Tools |
 |----------|-------|
@@ -67,7 +58,7 @@
 <br><br>
 
 
-## 📊 Dashboard
+## Dashboard
 
 
 
@@ -110,3 +101,19 @@
   </tr>
 
 </table>
+
+
+<br><br>
+
+
+## Architecture
+
+<img src="./assets/architecture.png" width="500" />
+
+
+
+<br><br>
+
+## ERD
+
+<img src="./assets/erd.png" width="500" />
