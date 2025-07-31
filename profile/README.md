@@ -108,7 +108,7 @@
 
 ## Architecture
 
-<img src="./assets/architecture.png" width="500" />
+<img src="./assets/architecture.png" width="1200" />
 
 
 
