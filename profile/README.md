@@ -38,6 +38,7 @@
 
 | 서정원 | 이승아 | 정동영 🤴🏻 | 조원서 | 최현욱 |
 |:--:|:--:|:--:|:--:|:--:|
+| ![](https://github.com/pjy05079.png?size=120) | ![](https://github.com/eelb07.png?size=120) | ![](https://github.com/Dong-yeong0.png?size=120) | ![](https://github.com/chowonseo.png?size=120) | ![](https://github.com/CHU4694.png?size=120) |
 | [@pjy05079](https://github.com/pjy05079) | [@eelb07](https://github.com/eelb07) | [@Dong-yeong0](https://github.com/Dong-yeong0) | [@chowonseo](https://github.com/chowonseo) | [@CHU4694](https://github.com/CHU4694) |
 
 
