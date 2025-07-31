@@ -116,4 +116,4 @@
 
 ## ERD
 
-<img src="./assets/erd.png" width="500" />
+<img src="./assets/erd.png" width="1200" />
