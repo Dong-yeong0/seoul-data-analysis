@@ -2,6 +2,12 @@
 
 [<img src="https://img.shields.io/badge/프로젝트 기간-2025.07.01~2025.07.28-green?style=flat&logo=&logoColor=white" />]()
 
+> 해당 문서는 프로젝트 설명용 README이고, 실제 구현 코드는 아래 저장소에서 확인하세요.  
+> - 데이터 파이프라인 관련: [seo-rry-again/airflow](https://github.com/seo-rry-again/airflow)
+>   - 주요 폴더: `dags/`, `glue_jobs/`, `team1_dbt/`, `.github/`
+> - 대시보드 관련: [seo-rry-again/metabase](https://github.com/seo-rry-again/metabase)
+>   - 주요 폴더: `commercial`, `event`, `population`, `seoul`, `transport`, `weather`
+
 <br />
 
 ## 목차
