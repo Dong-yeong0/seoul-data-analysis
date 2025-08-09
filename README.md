@@ -1,22 +1,22 @@
-#  데이터로 보는 서울 <img src="./assets/seoul_mas.png" align=left width=75>
+# 데이터로 보는 서울 <img src="./assets/seoul_mas.png" align=left width=45> 
 
 [<img src="https://img.shields.io/badge/프로젝트 기간-2025.07.01~2025.07.28-green?style=flat&logo=&logoColor=white" />]()
 
 <br />
 
 ## 목차
-1. [프로젝트 소개](#프로젝트-소개)
+1. [프로젝트 소개](#프로젝트-개요)
    - [프로젝트 개요](#프로젝트-개요)
    - [주제 선정 배경](#주제-선정-배경)
    - [프로젝트 목표](#프로젝트-목표)
-2. [사용 기술](#사용-기술)
-3. [아키텍처](#아키텍처)
-4. [결과](#결과)
+3. [사용 기술](#사용-기술)
+4. [아키텍처](#아키텍처)
+5. [결과](#결과)
    - [실시간 탭](#실시간)
    - [주간 탭](#주간)
    - [인사이트 탭](#인사이트)
-5. [성과](#성과)
-6. [데이터 출처](#데이터-출처)
+6. [성과](#성과)
+7. [데이터 출처](#데이터-출처)
 
 
 ## 프로젝트 개요
@@ -69,7 +69,7 @@ AWS기반 데이터 파이프라인과 인터랙티브 대시보드를 구축하
 
 ## 결과
 
-<table style="min-width: 100%; max-width: 830px; border-collapse: collapse; margin: 0 auto;">
+<table align=center style="min-width: 100%; border-collapse: collapse; margin: 0 auto;">
   <!-- 실시간 탭 -->
   <tr id="실시간">
     <td align="center" valign="top" style="padding: 20px;">
