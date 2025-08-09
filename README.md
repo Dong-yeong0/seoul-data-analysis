@@ -1,9 +1,6 @@
-<div align="center">
-
 #  데이터로 보는 서울 <img src="./assets/seoul_mas.png" align=left width=75>
 
 [<img src="https://img.shields.io/badge/프로젝트 기간-2025.07.01~2025.07.28-green?style=flat&logo=&logoColor=white" />]()
-</div>
 
 <br />
 
