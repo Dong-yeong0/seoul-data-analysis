@@ -121,6 +121,6 @@ AWS기반 데이터 파이프라인과 인터랙티브 대시보드를 구축하
 
 ## 데이터 출처
 
-- 서울 열린데이터 광장 (https://data.seoul.go.kr)
+- 서울 열린데이터 광장 - 서울시 실시간 도시데이터 (https://data.seoul.go.kr/dataList/OA-21285/F/1/datasetView.do)
 
 <p align="right"><a href="#목차">⬆ 목차로</a></p>
